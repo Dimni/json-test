@@ -1,31 +1,11 @@
 {
-   "policies":[
-      {
-         "id":1,
-         "policy_name":"Polisa_1",
-         "insurer_name":"Insurer_1",
-         "address":"Adres_1",
-         "footnote":"5.0",
-         "collection":"5.0",
-         "notes":"Notatki_1"
-      },
-      {
-         "id":2,
-         "policy_name":"Polisa_2",
-         "insurer_name":"Insurer_2",
-         "address":"Adres_2",
-         "footnote":"15.0",
-         "collection":"15.0",
-         "notes":"Notatki_2"
-      },
-      {
-         "id":3,
-         "policy_name":"Polisa_3",
-         "insurer_name":"Insurer_3",
-         "address":"Adres_3",
-         "footnote":"30.50",
-         "collection":"0.0",
-         "notes":"Notatki_3"
-      }
-   ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

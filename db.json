@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "policies": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+         "id":1,
+         "policy_name": "Polisa_1",
+         "insurer_name": "Insurer_1",
+         "address": "Adres_1",
+         "footnote": "5.0",
+         "collection": "5.0",
+         "notes": "Notatki_1"
+      },
+  ]
 }
